@@ -1,0 +1,11 @@
+package L5;
+
+public class Dog extends Pet {
+
+	
+	void voice() {
+		System.out.println("Iam a dog: bark-bark");
+		
+	}
+
+}
