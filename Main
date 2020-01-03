@@ -1,0 +1,14 @@
+package L5;
+
+public class Main {
+	public static void main(String[] args) {
+		Cow c=new Cow();
+		c.voice();
+		Cat cc=new Cat();
+		cc.voice();
+		Dog d=new Dog();
+		d.voice();
+		
+		
+	}
+}
